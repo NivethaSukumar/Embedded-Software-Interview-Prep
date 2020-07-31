@@ -37,7 +37,7 @@ void Enqueue(int data){
 
 void Dequeue()
 {
-    if ((front == NULL) && (rear == NULL)) {
+    if ((front == NULL)) {
         cout << "Queue is empty";
         return;
     } else if (front == rear) {
