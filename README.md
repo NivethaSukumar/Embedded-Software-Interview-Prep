@@ -27,3 +27,5 @@ Resources to prepare for embedded software interviews
 ### Computer Architecture
 ### Communication Protocol
 ### Hardware fundamentals
+
+For more resources https://github.com/nhivp/Awesome-Embedded
